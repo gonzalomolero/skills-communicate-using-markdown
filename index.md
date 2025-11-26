@@ -12,3 +12,8 @@ HE PROBADO VARIOS TAMAÑOS
 var myVar = "AGU AGU";
 ```
 
+- [x] XOKAS
+- [x] PROGRA
+- [ ] SIST INF
+
+
