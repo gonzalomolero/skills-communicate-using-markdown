@@ -7,3 +7,8 @@
 HE PROBADO VARIOS TAMAÑOS
 
 ![Image of Yaktocat](https://pbs.twimg.com/media/FPWWHL1XEAEmSC5.jpg)
+
+``` javascript
+var myVar = "AGU AGU";
+```
+
